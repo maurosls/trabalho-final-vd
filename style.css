@@ -1,0 +1,53 @@
+#titleDiv {
+    position: relative;
+    top: 10;
+    left: 25%;
+    font-family:sans-serif;
+}
+
+#mapDiv {
+  position: absolute;
+  width: 555px;
+  height: 400px;
+  margin: 0;
+  padding: 0;
+    left: 50;
+    top:80;
+    border-width: thin;
+    border-style: solid;
+    border-color: gray;
+}
+
+#timeDiv {
+    position: absolute;
+    top: 80;
+    left: 650;
+    font-family:sans-serif;
+	border-width: thin;
+    border-style: solid;
+    border-color: black;
+    font-family:sans-serif;
+}
+
+#optDivRed {
+    position: absolute;
+    left: 50;
+    top: 490;
+    border-width: thin;
+    border-style: solid;
+    border-color: red;
+    font-family:sans-serif;
+    font-size: 15;
+
+}
+#optDivBlue {
+    position: absolute;
+    left: 350;
+    top: 490;
+    border-width: thin;
+    border-style: solid;
+    border-color: blue;
+    font-family:sans-serif;
+    font-size: 15;
+
+}
